@@ -1,3 +1,3 @@
-hello = "hello, world!".upcase
+hello = "hello, world".upcase
 puts hello
 end
